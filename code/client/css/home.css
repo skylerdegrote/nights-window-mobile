@@ -1,0 +1,12 @@
+.twitterFeed {
+    margin: 50px 90px;
+    float: left;
+    width: 80%;
+}
+.pinterestBoard {
+    margin-top:50px;
+    margin-left: 60px;
+    display: inline-block;
+    clear: right;
+    width: 80%;
+}

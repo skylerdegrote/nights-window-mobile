@@ -1,0 +1,107 @@
+/* CHANGING BOOTSTRAP'S DEFAULT STYLES */
+
+.navbar-custom {
+    background-color: #333333;
+}
+
+.navbar-custom .nav li a {
+    color: whitesmoke;
+    border-top: 6px solid #333333;
+
+}
+
+.navbar-custom a {
+    color: whitesmoke;
+    border-bottom: 6px solid #333333;
+}
+
+.navbar-custom .nav li a:hover {
+    border-top: 6px solid #4CAF50;
+    background-color: #333333;
+}
+
+li.active {
+    border-bottom:  6px solid #4CAF50;
+}
+
+.icon-bar {
+    background-color: whitesmoke;
+}
+
+/* HEADER AND FOOTER */
+
+footer {
+    min-height: 300px;
+    background-color: #333333;
+    color: whitesmoke;
+    padding: 10px;
+    margin-top: 100px;
+}
+
+/* MAIN SECTION OF PAGE (container) */
+.container {
+    min-height: 500px;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.container a {
+    color: #333333;
+    text-decoration: underline;
+}
+
+/* CLEAR FIX */
+.clearFix {
+    clear: both;
+}
+
+/* FONT SIZES */
+h1 {
+    font-size: 60px;
+    font-weight: bolder;
+    font-family: "papyrus", fantasy;
+}
+
+/* ALIGN RIGHT LEFT OF CENTER - font / text */
+.alignRight {
+    text-align: right;
+}
+
+.alignLeft {
+    text-align: left;
+}
+
+.alignCenter {
+    text-align: center;
+}
+
+/* IN THE FOOTER */
+.disclaimer {
+    font-size: 10px;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    display: block;
+    clear: both;
+}
+
+.social {
+
+}
+
+.box {
+    min-height: 50px;
+    min-width: 50px;
+    background-color: whitesmoke;
+    margin-left: 50px;
+    margin-top: 20px;
+    float: left;
+    display: inline;
+}
+
+.marginLeft15 {
+    margin-left: 20px;
+    margin-right: 70px;
+}
