@@ -247,3 +247,9 @@ h2.post-title {
     clear: both;
     color: whitesmoke;
 }
+
+
+.dottedBox {
+    border: dashed #4CAF50 3px;
+    padding: 15px;
+}
