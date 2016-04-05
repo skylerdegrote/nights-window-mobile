@@ -44,3 +44,6 @@ of the website, the blog and the book itself.
 The blog is its own part of the website. This is where all the feedback and ideas will be posted first. I also plan
 to post any new additions to the site to the blog. Users can use the form at the bottom of the blog to make any
 comments on any particular idea or post. I will post everything to the blog before I add it to the website.
+
+#### Some of the spells/incantations used in the story and their meaning
+aperi ad locum Tasilan = Open the passage to Tasilan
