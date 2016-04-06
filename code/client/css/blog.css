@@ -149,6 +149,8 @@ h4 {
 
 .main {
     padding-top: 0;
+    /*this is to help move form up from footer*/
+    padding-bottom: 60px;
     margin: 0;
     min-height: 600px;
     background-color: whitesmoke;
@@ -256,4 +258,11 @@ h2.post-title {
 
 .italicText {
     font-style: italic;
+}
+
+#commentForm {
+    background-color: #333333;
+    border-radius: 25px;
+    padding:20px;
+    margin-top:30px;
 }
