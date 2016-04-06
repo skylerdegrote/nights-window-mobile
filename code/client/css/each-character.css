@@ -1,0 +1,7 @@
+body {
+    background-color: whitesmoke;
+}
+.characterFullName {
+    font-family: "papyrus", fantasy;
+    text-decoration: underline;
+}
