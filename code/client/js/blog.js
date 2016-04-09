@@ -46,6 +46,13 @@ $( document ).ready(function() {
         $(this).addClass("active");
     });
 
+    $("#researchTag").click(function(){
+        $(".active").removeClass("active");
+        $(".visible").toggle().removeClass("visible").addClass("hidden");
+        $(".research").toggle().removeClass("hidden").addClass("visible");
+        $(this).addClass("active");
+    });
+
 
     // DATES
     $("#march16tag").click(function(){
